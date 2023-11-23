@@ -1,0 +1,17 @@
+body{
+    background-color:white;
+}
+
+.header{
+    text-align: center;
+    font-size:xx-large;
+}
+
+.headerEmployeeStats{
+    font-size:larger;
+}
+
+.textSize{
+    font-size:x-large;
+    font-weight: bold;
+}
